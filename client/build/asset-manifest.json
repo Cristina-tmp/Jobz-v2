@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3fe9f94e.css",
+    "main.js": "/static/js/main.f376bb64.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/not-found.svg": "/static/media/not-found.5eb3e64476624b8a49d7d75cc64a0d40.svg",
+    "static/media/jobz_logo3.png": "/static/media/jobz_logo3.84a9c155b8a823f188d9.png",
+    "static/media/main.svg": "/static/media/main.f1624efcba3ac7e36d1e54d5606200bb.svg",
+    "index.html": "/index.html",
+    "main.3fe9f94e.css.map": "/static/css/main.3fe9f94e.css.map",
+    "main.f376bb64.js.map": "/static/js/main.f376bb64.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fe9f94e.css",
+    "static/js/main.f376bb64.js"
+  ]
+}
